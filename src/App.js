@@ -1,5 +1,5 @@
 import React from "react";
-import Setup from "./Components/Reviews";
+import Setup from "./Components/Questions";
 
 function App() {
   return (
